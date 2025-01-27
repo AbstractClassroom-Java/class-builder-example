@@ -1,4 +1,4 @@
-# DriverRecord with Builder Pattern
+# Record Class with Builder Pattern
 
 This repository contains the `DriverRecord` Java record class, which demonstrates how to use the **Builder Pattern** to create immutable objects with complex configurations. The `Builder` subclass allows step-by-step construction of a `DriverRecord` while maintaining immutability and encapsulation.
 
